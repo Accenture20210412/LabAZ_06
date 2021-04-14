@@ -1,0 +1,4 @@
+public enum FirewallIncident {
+    LOV_SEVERITY, MEDIUM_SEVERITY,
+    HIGH_SEVERITY, EXTREME_SEVERITY
+}
